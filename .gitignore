@@ -1,0 +1,8 @@
+**/Objects/
+
+**/Debug/
+**/Release/
+*.elf
+*.bin
+*.hex
+*.axf
